@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### [**👉 CLICK HERE TO TRY THE LIVE CHATBOT 👈**](https://memory-journal-n7cq-git-main-zara-etes-projects.vercel.app/)
+### [**👉 CLICK HERE TO TRY THE LIVE Memory Journal APP 👈**](https://memory-journal-chi.vercel.app/)
 
 **Experience the Memory Journal !**
 
@@ -308,7 +308,7 @@ This experience is complete—you can move forward now.
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 **Created for:** Memory Journal Product Development
 
 ---
@@ -317,7 +317,7 @@ This experience is complete—you can move forward now.
 
 ---
 
-<a href="https://memory-journal-n7cq-git-main-zara-etes-projects.vercel.app/">
+<a href="https://memory-journal-chi.vercel.app/">
   <img src="https://img.shields.io/badge/▶_TRY_DEMO-Launch_memory-journal-00D9A0?style=for-the-badge&labelColor=1a1a2e&color=00D9A0&logoColor=white" alt="Try Demo" height="80"/>
 </a>
 
