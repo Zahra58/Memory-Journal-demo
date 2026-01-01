@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### [**👉 CLICK HERE TO TRY THE LIVE Memory Journal APP 👈**](https://memory-journal-chi.vercel.app/)
+### [** CLICK HERE TO TRY THE LIVE Memory Journal APP **](https://memory-journal-chi.vercel.app/)
 
 **Experience the Memory Journal !**
 
@@ -130,7 +130,7 @@ After 2-3 exchanges on the same topic:
 
 **Example Output:**
 ```
-✨ Memory Closed
+ Memory Closed
 
 You learned that you can't control others' reactions, only your own response. 
 This experience is complete—you can move forward now. 
@@ -323,9 +323,8 @@ This experience is complete—you can move forward now.
 
 ###  **Click above to launch the chatbot!**
 
-[![Memory Journal](https://img.shields.io/badge/_Memory-Journal-blueviolet?style=for-the-badge)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
-[![Healthcare AI](https://img.shields.io/badge/_Healthcare_AI-Fall_&_Choking_Detection-blue?style=for-the-badge)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
-[![Projects](https://img.shields.io/badge/📚_Projects-5_AI/ML_Apps-purple?style=for-the-badge)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
+[![Memory Journal](https://img.shields.io/badge/_Memory-Journal-blueviolet?style=for-the-badge)](https://memory-journal-chi.vercel.app/)
+[![Projects](https://img.shields.io/badge/_Projects-5_AI/ML_Apps-purple?style=for-the-badge)](https://ai-portfolio-support-chatbot-fpvo.onrender.com/)
 
 </div>
 
